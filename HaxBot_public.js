@@ -2,7 +2,7 @@
 
 /* ROOM */
 
-const roomName = 'Public Room';
+const roomName = 'Public Room HCA Test';
 const maxPlayers = 12;
 const roomPublic = true;
 const token = ""; // Insert token here
